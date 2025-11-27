@@ -1,10 +1,9 @@
 # Automated Resume Relevance Check System
 
-This project contains a complete, hackathon-ready **AI-first** system for automatically checking the relevance of a resume against a job description.
+This project contains a complete **AI-first** system for automatically checking the relevance of a resume against a job description.
 
 ### Problem Statement
-
-At Innomatics Research Labs, resume evaluation is a manual, inconsistent, and time-consuming process. This leads to delays in shortlisting candidates and a high workload for the placement team. This system solves this problem by providing a fast, scalable, and consistent way to evaluate resumes, ensuring high-quality shortlists for hiring companies.
+Resume evaluation is a manual, inconsistent, and time-consuming process. This leads to delays in shortlisting candidates and a high workload for the placement team. This system solves this problem by providing a fast, scalable, and consistent way to evaluate resumes, ensuring high-quality shortlists for hiring companies.
 
 ### Approach
 
